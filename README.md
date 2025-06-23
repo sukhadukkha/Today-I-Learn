@@ -5,8 +5,6 @@
 - [2025-05-31 - 날짜와 시간 정리](til/java/2025-05-31-Date-and-Time.md)
 - [2025-06-01 - 중첩클래스, 내부클래스1 정리](til/java/2025-06-01-nested-inner-class.md)
 - [2025-06-20 - 중첩클래스, 내부클래스2 정리 및 문제 풀이](til/java/2025-06-20-nested-inner-class2.md)
-- [2025-06-23 - 제네릭1 정리](til/java/2025-06-23-Generic1.md)
-
 
 ## 전공
 
