@@ -8,7 +8,9 @@
 - [2025-06-21 - 예외처리1,2 정리](til/java/2025-06-21-Exception1,2.md)
 - [2025-06-23 - 제네릭1 정리](til/java/2025-06-23-Generic1.md)
 - [2025-06-24 - 제네릭2 정리](til/java/2025-06-24-Generic2.md)
-- [22025-06-25 - 컬렉션 프레임워크(ArrayList 정리)](til/java/2025-06-25-ArrayList.md)
+- [2025-06-25 - 컬렉션 프레임워크(ArrayList 정리)](til/java/2025-06-25-ArrayList.md)
+- [2025-06-25 - 컬렉션 프레임워크(LinkedList 정리)](til/java/2025-06-26-LinkedList.md)
+
 
 ## 전공
 
