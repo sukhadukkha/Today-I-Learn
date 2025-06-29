@@ -12,6 +12,7 @@
 - [2025-06-26 - 컬렉션 프레임워크(LinkedList 정리)](til/java/2025-06-26-LinkedList.md)
 - [2025-06-27 - 컬렉션 프레임워크(List 정리)](til/java/2025-06-27-List.md)
 - [2025-06-28 - 컬렉션 프레임워크(Hash 정리)](til/java/2025-06-28-Hash.md)
+- [2025-06-28 - 컬렉션 프레임워크(HashSet 정리)](til/java/2025-06-29-HashSet.md)
 
 
 
