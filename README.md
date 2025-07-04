@@ -14,8 +14,9 @@
 - [2025-06-28 - 컬렉션 프레임워크(Hash 정리)](til/java/2025-06-28-Hash.md)
 - [2025-06-29 - 컬렉션 프레임워크(HashSet 정리)](til/java/2025-06-29-HashSet.md)
 - [2025-06-30 - 컬렉션 프레임워크(Set 정리)](til/java/2025-06-30-Set.md)
-- [2025-07-01 - 컬렉션 프레임워크(Map,Stack,Queue정리)](til/java/2025-07-01-Map,Stack,Queue.md)
+- [2025-07-01 - 컬렉션 프레임워크(Map,Stack,Queue 정리)](til/java/2025-07-01-Map,Stack,Queue.md)
 - [2025-07-03 - 객체지향 설계와 스프링(스프링 기본편)](til/spring/2025-07-03-객체지향설계와스프링.md)
+- [2025-07-04 - 스프링 핵심 원리 이해1,2 정리(스프링 기본편)](til/spring)
 
 
 
